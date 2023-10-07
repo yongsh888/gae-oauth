@@ -1,0 +1,15 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "Test Node.JS on App Engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "yongsh@google.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^126.0.1"
+  }
+}
